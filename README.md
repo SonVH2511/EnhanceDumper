@@ -13,3 +13,7 @@ Dump PE(dump theo sizeofimage/sizeofrawdata, không hỗ trợ fix).
 ### Installation
 
 Tải hết về rồi quăng vào folder plugin %AppData%\Hex-Rays\IDA Pro\plugins.
+
+### Notice
+
+Chạy tốt trên ida 9.0
