@@ -1,6 +1,6 @@
 ### EnhanceDumper
 
-viết plugin dump mem cho nhanh, đỡ phải lần nào cũng viết 1 đoạn dump bé tí.
+viết plugin dump mem cho nhanh, đỡ phải lần nào cũng viết 1 đoạn script dump bé tí.
 
 Hiện tại thì có 3 mode, dump dải byte, dump mã asm của hàm, dump PE raw/image.
 
